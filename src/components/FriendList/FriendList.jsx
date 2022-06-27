@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types';
+
 import { FriendListItem } from 'components/FriendList/FriendListItem';
 import { FriendBox } from './FriendList.styled';
 

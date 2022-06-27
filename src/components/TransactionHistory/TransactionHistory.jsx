@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types';
+
 import { Transaction } from 'components/TransactionHistory/Transaction';
 import { TransactionTable, TransactionHead,TransactionItem, TransactionBody, TransHead } from './Transaction.styled';
 

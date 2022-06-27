@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+
 import user from "../path/user.json";
 import data from "../path/data.json";
 import friends from "../path/friends.json";
