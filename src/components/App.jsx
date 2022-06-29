@@ -1,8 +1,8 @@
 
-import user from "../path/user.json";
-import data from "../path/data.json";
-import friends from "../path/friends.json";
-import transactions from "../path/transactions.json";
+import user from "../mock/user.json";
+import data from "../mock/data.json";
+import friends from "../mock/friends.json";
+import transactions from "../mock/transactions.json";
 import { Profile } from "components/Profile/Profile";
 import { Statistics } from "components/Statistics/Statistics";
 import { FriendList } from "components/FriendList/FriendList";

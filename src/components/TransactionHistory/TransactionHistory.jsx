@@ -21,8 +21,7 @@ export const TransactionHistory = ({ items }) => {
             currency={currency} />
         ),
         )
-        }
-        
+        }       
       </TransactionBody>
     </TransactionTable>
   );
